@@ -1,0 +1,158 @@
+{
+  "disclaimer_version": 1,
+  "entries": [
+    {
+      "class_name": "Tomato___healthy",
+      "crop": "tomato",
+      "disease_name": "Healthy tomato leaf",
+      "is_healthy": true,
+      "symptoms": [
+        "Even green colour with no spots, patches, curling or mould on the leaf."
+      ],
+      "prevention": [
+        "Water at the base of plants rather than over the leaves.",
+        "Keep adequate spacing for airflow.",
+        "Rotate crops and remove old plant debris after harvest."
+      ],
+      "management_guidance": [
+        "Continue regular field scouting; healthy-looking leaves can still hide early infection."
+      ],
+      "next_steps": [
+        "Keep checking plants weekly, including the undersides of leaves.",
+        "If symptoms appear later, take a new clear photo and scan again."
+      ],
+      "sources": [
+        "Tamil Nadu Agricultural University (TNAU) Agritech Portal, tomato crop protection section - confirm exact page before public release",
+        "ICAR / state agricultural extension guidance - confirm exact document before public release"
+      ],
+      "last_reviewed": null,
+      "review_status": "draft_needs_expert_review"
+    },
+    {
+      "class_name": "Tomato___Early_blight",
+      "crop": "tomato",
+      "disease_name": "Early blight",
+      "is_healthy": false,
+      "symptoms": [
+        "Dark brown spots, often with concentric rings like a target.",
+        "Older, lower leaves are usually affected first.",
+        "Yellowing around spots; leaves may drop."
+      ],
+      "prevention": [
+        "Rotate with non-solanaceous crops.",
+        "Remove and destroy infected plant debris.",
+        "Avoid overhead irrigation and avoid wetting leaves late in the day.",
+        "Stake or mulch plants to reduce soil splash."
+      ],
+      "management_guidance": [
+        "Remove badly affected lower leaves where practical.",
+        "Ask your agricultural officer which locally approved product and schedule is appropriate for your field."
+      ],
+      "next_steps": [
+        "Compare the leaf with the symptoms listed here and check several plants, not just one.",
+        "Show the plant or a clear photo to your local agricultural officer or Krishi Vigyan Kendra (KVK) before choosing any treatment.",
+        "Do not spray any chemical based only on this app's result."
+      ],
+      "sources": [
+        "Tamil Nadu Agricultural University (TNAU) Agritech Portal, tomato crop protection section - confirm exact page before public release",
+        "ICAR / state agricultural extension guidance - confirm exact document before public release"
+      ],
+      "last_reviewed": null,
+      "review_status": "draft_needs_expert_review"
+    },
+    {
+      "class_name": "Tomato___Late_blight",
+      "crop": "tomato",
+      "disease_name": "Late blight",
+      "is_healthy": false,
+      "symptoms": [
+        "Large, irregular, water-soaked or greasy-looking patches that turn brown/black.",
+        "White fuzzy growth may appear on leaf undersides in humid weather.",
+        "Can spread very quickly in cool, wet conditions and also affects stems and fruit."
+      ],
+      "prevention": [
+        "Use healthy planting material.",
+        "Avoid dense planting and long leaf-wetness periods.",
+        "Remove volunteer tomato and potato plants nearby."
+      ],
+      "management_guidance": [
+        "Late blight can spread fast: seek expert advice promptly instead of waiting.",
+        "Remove and safely dispose of severely infected plants as advised locally."
+      ],
+      "next_steps": [
+        "Treat this as potentially serious and contact your agricultural officer or KVK soon.",
+        "Avoid moving between infected and healthy plants without cleaning tools and hands.",
+        "Do not spray any chemical based only on this app's result."
+      ],
+      "sources": [
+        "Tamil Nadu Agricultural University (TNAU) Agritech Portal, tomato crop protection section - confirm exact page before public release",
+        "ICAR / state agricultural extension guidance - confirm exact document before public release"
+      ],
+      "last_reviewed": null,
+      "review_status": "draft_needs_expert_review"
+    },
+    {
+      "class_name": "Tomato___Bacterial_spot",
+      "crop": "tomato",
+      "disease_name": "Bacterial spot",
+      "is_healthy": false,
+      "symptoms": [
+        "Small, dark, water-soaked spots that may become slightly raised or scabby.",
+        "Spots can have a yellow halo; severe cases cause leaf drop.",
+        "Fruit may show rough, raised spots."
+      ],
+      "prevention": [
+        "Use clean seed and healthy seedlings.",
+        "Avoid working in the field when plants are wet.",
+        "Rotate crops and clean tools.",
+        "Avoid overhead irrigation."
+      ],
+      "management_guidance": [
+        "Remove and dispose of infected plant material carefully.",
+        "Ask your agricultural officer about locally approved options; bacterial diseases are often hard to control once established."
+      ],
+      "next_steps": [
+        "Compare the leaf with the symptoms listed here and check several plants, not just one.",
+        "Show the plant or a clear photo to your local agricultural officer or Krishi Vigyan Kendra (KVK) before choosing any treatment.",
+        "Do not spray any chemical based only on this app's result."
+      ],
+      "sources": [
+        "Tamil Nadu Agricultural University (TNAU) Agritech Portal, tomato crop protection section - confirm exact page before public release",
+        "ICAR / state agricultural extension guidance - confirm exact document before public release"
+      ],
+      "last_reviewed": null,
+      "review_status": "draft_needs_expert_review"
+    },
+    {
+      "class_name": "Tomato___Leaf_Mold",
+      "crop": "tomato",
+      "disease_name": "Leaf mould",
+      "is_healthy": false,
+      "symptoms": [
+        "Pale green or yellow patches on the upper leaf surface.",
+        "Olive-green to grey-brown mould on the underside of the matching patches.",
+        "Common in warm, humid, poorly ventilated conditions."
+      ],
+      "prevention": [
+        "Improve ventilation and spacing, including in greenhouses or tunnels.",
+        "Avoid wetting leaves and keep humidity down.",
+        "Remove old infected leaves and debris."
+      ],
+      "management_guidance": [
+        "Reduce humidity and leaf wetness first.",
+        "Ask your agricultural officer which locally approved product, if any, is suitable."
+      ],
+      "next_steps": [
+        "Compare the leaf with the symptoms listed here and check several plants, not just one.",
+        "Show the plant or a clear photo to your local agricultural officer or Krishi Vigyan Kendra (KVK) before choosing any treatment.",
+        "Do not spray any chemical based only on this app's result."
+      ],
+      "sources": [
+        "Tamil Nadu Agricultural University (TNAU) Agritech Portal, tomato crop protection section - confirm exact page before public release",
+        "ICAR / state agricultural extension guidance - confirm exact document before public release"
+      ],
+      "last_reviewed": null,
+      "review_status": "draft_needs_expert_review"
+    }
+  ]
+}

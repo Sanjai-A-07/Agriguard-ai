@@ -1,0 +1,23 @@
+```gitignore
+__pycache__/
+.venv/
+venv/
+node_modules/
+dist/
+.env
+.env.*
+*.db
+.pytest_cache/
+.mypy_cache/
+
+# Dataset files
+data/tomato_split/
+data/PlantVillage-Dataset/
+
+# Ignore generated model files except the trained model
+models/*
+!models/.gitkeep
+!models/crop_disease.keras
+!models/class_names.json
+!models/history.json
+```
